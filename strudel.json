@@ -64,25 +64,13 @@
     ],
 
         "gtr_vib": [
-        "mot4i_gtr/vibrato/Am.mp3",
-        "mot4i_gtr/vibrato/Em.mp3",
-        "mot4i_gtr/vibrato/G.mp3",
-        "mot4i_gtr/vibrato/Fm7.mp3",   
-        "mot4i_gtr/vibrato/A2.mp3",
-        "mot4i_gtr/vibrato/D#M7.mp3",       
-        "mot4i_gtr/vibrato/C.mp3"      
-    ],
+        "velvet blues/vibrato/Am.mp3","velvet blues/vibrato/Em.mp3","velvet blues/vibrato/G.mp3","velvet blues/vibrato/Fm7.mp3","velvet blues/vibrato/A2.mp3",
+        "velvet blues/vibrato/D#M7.mp3","velvet blues/vibrato/C.mp3" ],
 
 
         "gtr_cru": [
-        "mot4i_gtr/crunch/Am.mp3",
-        "mot4i_gtr/crunch/Em.mp3",
-        "mot4i_gtr/crunch/G.mp3",
-        "mot4i_gtr/crunch/Fm7.mp3",   
-        "mot4i_gtr/crunch/A2.mp3",
-        "mot4i_gtr/crunch/D#M7.mp3",       
-        "mot4i_gtr/crunch/C.mp3"      
-    ],
+        "velvet blues/crunch/Am.mp3","velvet blues/crunch/Em.mp3","velvet blues/crunch/G.mp3","velvet blues/crunch/Fm7.mp3",   "velvet blues/crunch/A2.mp3",
+        "velvet blues/crunch/D#M7.mp3","velvet blues/crunch/C.mp3"],
 
             "fungi": [
         "mot4i_gtr/fungi/gim.mp3",
