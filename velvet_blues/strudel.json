@@ -24,5 +24,10 @@
   "lp": [
     "lp/adama01.mp3",
     "lp/ninetysix11.mp3"
-  ]
+  ],
+
+"water": "vox/be_water.mp3",
+"vox1": "vox/vox1.mp3",
+"vox2": "vox/vox2.mp3"
+  
 }
