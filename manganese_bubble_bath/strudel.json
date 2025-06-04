@@ -4,8 +4,8 @@
     "focus": "vox/persona5_focus.mp3",
     "somewhere": "vox/persona5_its_somewhere.mp3",
     "fx": [
-        "garden_fx/fx_noise.wav",
-        "garden_fx/fx_sub.wav",
-        "garden_fx/fx_vinyl.wav"]
+        "fr/fx_noise.wav",
+        "fx/fx_sub.wav",
+        "fx/fx_vinyl.wav"]
   
 }
