@@ -1,2 +1,8 @@
 
-/garden_of_possibilities/sunra/sunra.mp3
+{
+    "_base": "https://raw.githubusercontent.com/mot4i/loom/main/garden_of_possibilities/",
+
+"sunra":"garden_of_possibilities/sunra/sunra.mp3"
+  
+}
+
