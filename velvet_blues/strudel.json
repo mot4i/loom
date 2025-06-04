@@ -1,13 +1,23 @@
 {
-    "_base": "https://raw.githubusercontent.com/mot4i/loom/main/velvet_blues",
+  "_base": "https://raw.githubusercontent.com/mot4i/loom/main/velvet_blues",
 
-        "gtr_vib": [
-        "velvet_blues/gtr/vibrato/Am.mp3","velvet_blues/gtr/vibrato/Em.mp3","velvet_blues/gtr/vibrato/G.mp3","velvet_blues/gtr/vibrato/Fm7.mp3","velvet_blues/gtr/vibrato/A2.mp3",
-        "velvet_blues/gtr/vibrato/D#M7.mp3","velvet_blues/gtr/vibrato/C.mp3" ],
+  "gtr_vib": [
+    "gtr/vibrato/Am.mp3",
+    "gtr/vibrato/Em.mp3",
+    "gtr/vibrato/G.mp3",
+    "gtr/vibrato/Fm7.mp3",
+    "gtr/vibrato/A2.mp3",
+    "gtr/vibrato/D#M7.mp3",
+    "gtr/vibrato/C.mp3"
+  ],
 
-
-        "gtr_cru": [
-        "velvet_blues/gtr/crunch/Am.mp3","velvet_blues/gtr/crunch/Em.mp3","velvet_blues/gtr/crunch/G.mp3","velvet_blues/gtr/crunch/Fm7.mp3", "velvet_blues/gtr/crunch/A2.mp3",
-        "velvet_blues/gtr/crunch/D#M7.mp3","velvet_blues/gtr/crunch/C.mp3"]
-
+  "gtr_cru": [
+    "gtr/crunch/Am.mp3",
+    "gtr/crunch/Em.mp3",
+    "gtr/crunch/G.mp3",
+    "gtr/crunch/Fm7.mp3",
+    "gtr/crunch/A2.mp3",
+    "gtr/crunch/D#M7.mp3",
+    "gtr/crunch/C.mp3"
+  ]
 }
