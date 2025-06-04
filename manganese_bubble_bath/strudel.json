@@ -1,8 +1,11 @@
 {
-    "_base": "https://raw.githubusercontent.com/mot4i/loom/main/a_damn_fine_cup_of_coffee/",
+    "_base": "https://raw.githubusercontent.com/mot4i/loom/main/manganese_bubble_bath/",
 
-"somewhere":"vox/persona5_its_somewhere.mp3",
-"focus":"vox/focus.mp3",
-"fx":["",""]
+    "focus": "vox/persona5_focus.mp3",
+    "somewhere": "vox/persona5_its_somewhere.mp3",
+    "fx": [
+        "garden_fx/fx_noise.wav",
+        "garden_fx/fx_sub.wav",
+        "garden_fx/fx_vinyl.wav"]
   
 }
