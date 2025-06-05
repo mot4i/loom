@@ -1,1 +1,33 @@
+{
+    "_base": "https://raw.githubusercontent.com/mot4i/garden/loom/main/room99",
 
+  
+            "fungi": [
+        "gtr/fungi/gim.mp3",
+        "gtr/fungi/f.mp3",
+        "gtr/fungi/f_down.mp3",
+        "gtr/fungi/f#.mp3",
+        "gtr/fungi/f#_drone.mp3",
+        "gtr/fungi/b.mp3",   
+        "gtr/fungi/b#.mp3"      
+    ],
+
+        "fx": [
+        "fx/fx_noise.wav",
+        "fx/fx_sub.wav",
+    ],
+
+          "ethnic_st":[
+        "ethnic_st/ethnic02(D up to D#).wav",
+        "ethnic_st/ethnic03(F down to E).wav",
+    ],
+
+          "bigb":[
+        "bigb/LowModuRing-A.wav"
+     ],
+
+           "lp":[
+        "lp/lp.mp3"
+     ] 
+
+}
