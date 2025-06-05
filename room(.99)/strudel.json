@@ -1,5 +1,5 @@
 {
-    "_base": "https://raw.githubusercontent.com/mot4i/loom/main/room99",
+    "_base": "https://raw.githubusercontent.com/mot4i/loom/main/room_99",
 
   
             "fungi": [
@@ -13,7 +13,6 @@
     ],
 
         "fx": [
-        "fx/fx_noise.wav",
         "fx/fx_sub.wav"
     ],
 
