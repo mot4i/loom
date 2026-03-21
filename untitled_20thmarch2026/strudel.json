@@ -1,6 +1,6 @@
 {
     "_base": "https://raw.githubusercontent.com/mot4i/loom/main/untitled_20thmarch2026",
 
-    "gtr_loom": "gtr_loom.wav"
+    "gtr": ["gtr_loom.wav"]
   
 }
