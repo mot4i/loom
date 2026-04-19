@@ -3,7 +3,6 @@
 
     "jazzy": ["chill/jazzy.wav"],
     "gtR": ["untitled_20thmarch2026/gtr_loom.wav"],
-  "npx": ["npx/TSP_MODESTEP_V1_174_drum_extras.wav"],
-  "npx2": ["TSP_MODESTEP_V1_174_drum_garagey.wav"]
+  "npx": ["npx/TSP_MODESTEP_V1_174_drum_extras.wav", "npx/TSP_MODESTEP_V1_174_drum_garagey.wav"]
 
 }
