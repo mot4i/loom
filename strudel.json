@@ -2,6 +2,7 @@
   "_base": "https://raw.githubusercontent.com/mot4i/loom/main/",
 
     "jazzy": ["chill/jazzy.wav"],
-    "gtR": ["untitled_20thmarch2026/gtr_loom.wav"]
+    "gtR": ["untitled_20thmarch2026/gtr_loom.wav"],
+  "npx": ["npx/TSP_MODESTEP_V1_174_drum_extras.wav"]
 
 }
